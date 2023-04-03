@@ -1,2 +1,12 @@
-# ERDBF
-an age estimation framework that can simultaneously handle single-modal and multi-modal input.
+# ERDBF: Embedding-Regularized Double Branches Fusion for Multi-Modal Age Estimation
+The official repository for ERDBF.
+Paper: coming soon.
+## Requirements
+    - numpy
+    - opencv-python
+    - torchvision
+    - torchaudio
+    - torch
+## Data 
+    coming soon 
+
