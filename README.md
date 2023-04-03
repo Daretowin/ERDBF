@@ -7,6 +7,6 @@ Paper: coming soon.
     - torchvision
     - torchaudio
     - torch
-## Data 
-    coming soon 
+## Saved models and data.
+    coming soon.
 
