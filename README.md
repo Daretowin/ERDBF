@@ -7,8 +7,11 @@ Paper: coming soon.
     - torchvision
     - torchaudio
     - torch
-## Saved models and data.
-    coming soon.
+## Datasets
+    AgeVoxCeleb link:
+    MORPH-II link:
+    
+## Pre-trained models
 
 ## Training procedure.
     coming soon.
