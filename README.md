@@ -10,12 +10,11 @@ Paper: coming soon.
 ## Datasets
     AgeVoxCeleb link:
     MORPH-II link:
-    
 ## Pre-trained models
 
 ## Training procedure.
     coming soon.
 ## Inference procedure.
-    coming soon.
+    ERDBF in multi-modal test condition: python test_ERDBF.py
 ## demo.
     coming soon.
