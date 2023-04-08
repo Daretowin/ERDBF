@@ -7,8 +7,8 @@ The official repository for ERDBF. The rest content is updating.
     - torchaudio
     - torch
 ## Datasets
-    [AgeVoxCeleb link:](https://github.com/nttcslab-sp/agevoxceleb)
-    [MORPH-II link:](https://uncw.edu/oic/tech/morph.html)
+    AgeVoxCeleb link: https://github.com/nttcslab-sp/agevoxceleb
+    AgeVoxCeleb link: https://uncw.edu/oic/tech/morph.html
 ## Pre-trained models
     
 ## Training procedure.
