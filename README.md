@@ -36,4 +36,4 @@ coming soon.
 (4) Run the test script for ERDBF in multi-modal test condition by executing the following command: `python test_ERDBF.py`
 
 ## demo.
-coming soon.
+![image](https://github.com/Daretowin/ERDBF/blob/main/demo.gif)
